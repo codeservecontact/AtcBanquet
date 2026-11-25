@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hotelatc-banquets.netlify.app/sitemap.xml
